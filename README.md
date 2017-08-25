@@ -1,0 +1,1 @@
+This is Amberly's first git project!
